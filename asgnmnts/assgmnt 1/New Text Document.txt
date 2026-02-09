@@ -1,0 +1,110 @@
+Archival ResearchMethod
+Experiment Research Method
+Survey Research Method
+Research Questions
+ research question 
+
+onino model 
+
+ResearchMethodology
+
+The Purpose of the Research - bulet list
+
+title of research
+The Purpose of the Research - bulet list
+research methodology
+research mthods
+Conclusions and Further Research
+
+title of research
+The Purpose of the Research - bulet list
+background
+methodology
+method
+
+title of research
+The Purpose of the Research - bulet list
+background
+methodology
+Conclusions and Further Research
+
+References
+========================
+
+Title 
+Purpose pf the research
+research Onion
+Methodology
+Methods
+Conclusions
+future improvements?
+Overview of other papers in this area
+refernces
+future possible work
+
+
+====
+
+label thsi in terms of research onion
+1. philosophical stances epi -positivism/realism/interpretivism) & ontology (objectivism/constructivism)
+2. Approaches (deductive/inductive)
+3. strategies
+4. 
+
+
+
+
+
+The many -isms of social research can themselves be confusing, given the different ways researchers define and categorise them. 
+Alvesson and Sk ö ldberg (2009:15) identify three --333-- orientations or “overarching philosophies of science” as being 
+positivism, 
+social constructionism, and 
+critical realism, 
+
+while Saunders et al. (2016) refer to five, including 
+positivism, 
+critical realism, 
+interpretivism, 
+postmodernism, and 
+pragmatism. 
+
+Such variations are as striking by what they omit as by what they include. This can also help us to consider possible shared and divergent philosophical (ontological, epistemological, etc.) orientations within overarching typologies. For example, when Alvesson and Sk ö ldberg include post-positivism with positivism, they focus on conceptions of reality and, to a lesser extent, their epistemological and methodological implications (suggesting the first is more, though not wholly, orientated to quantitative data, the second to qualitative, and the third to mixed methods). On the other hand, Saunders et al. (2016) present a model in relation to all four -ologies (methodology more focused around likely methods). While not including post-positivism, they expand the typology and present interpretivism as an apparent synonym for Alvesson and Sk ö ldberg’s (2009) constructivism (with social construction included as an ontological factor). Variations in the jargon of the philosophy of science inevitably make its study more complex, but it is important that, as researchers, we consider its implications for our own research.
+Exploring Research Methodology and Research Design : Doing Research Across the Business Disciplines, edited by Peter J. Sandiford, and Sabine Schührer, Edward Elgar Publishing Limited, 2025. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/tudublin/detail.action?docID=31928631.
+Created from tudublin on 2026-02-08 19:41:10.
+
+
+Epistemology
+
+Pragmatism — knowledge is evaluated based on predictive usefulness rather than claims of objective truth.
+
+Ontology
+
+Constructivism — ESG performance is treated as a socially constructed phenomenon emerging from media discourse and stakeholder interpretation.
+
+Layer 3. Strategy is it
+Experiment / Survey / Case Study / Action research / grounded theory / Ethnography / Archival Research
+
+Layer 4. 
+Quantitative
+Qualitative
+Mono Method
+Multi method
+Mixed method
+
+METHODS
+•	Methods are the ways in which you will actually design and collect data.
+TOOLS
+•	You may also consider the tools for the effect.
+
+Layer 6. Techniques and procedures
+methods and tools / questionnaire / interview / observational survey / experiment / formal modelling / pilot case / project monitoring / systematic literature
+
+
+ → semantic embeddings
+ → topic clustering (k-means)
+ → monthly aggregation
+ → time series applied
+
+
+one multivariate time-series input is built from three feature sets derived from a single source datase
+single datsset >> feature extraction  (relevance / sentiment / semantic topics) >> temporal aggregation (the time series feature set) >> CNN / Transformer >>> ESG rating

@@ -1,0 +1,62 @@
+springer  >> http://www.springer.com/computer?SGWID=0-146-12-150008-0 
+ACM Digital Library >> http://dl.acm.org/ 
+DBLP >>  https://dblp.org/
+
+Databases 
+ >> Academic Search Complete
+dit >>>	http://www.dit.ie/library/databases/ 
+sciencedirect >> http://www.sciencedirect.com/science/bookbshsrw/sub/infosys
+
+Search Engines: Google Scholar
+Operators and search help
+•	http://support.google.com/websearch/bin/answer.py?hl=en&answer=136861
+Google Search Tools and Filters
+•	https://support.google.com/websearch/answer/142143?hl=en&ref_topic=3180167
+
+
+IEEE >>> ??
+Emerald Journals >>> ?
+SAGE (online.sagepub.com) >>> ?
+
+Number of citations >> CiteSeer)
+
+Microsoft Academic Search > http://academic.research.microsoft.com/
+Computer Science Conference Rank >> http://www.core.edu.au/index.php/conference-rankings
+DIT Library >> http://www.dit.ie/library/subjects/computerscience/postgraduates/
+
+
+==== research ====
+
+company report
+annual report
+ESG
+sentiment >> covers more investment, seems to be more financiall related
+
+
+https://dl-acm-org.tudublin.idm.oclc.org/doi/10.1145/3655497.3655513
+
+https://dl-acm-org.tudublin.idm.oclc.org/doi/10.1145/3701716.3717509
+
+
+https://dl-acm-org.tudublin.idm.oclc.org/doi/10.1145/3746274.3760395
+
+
+https://dl-acm-org.tudublin.idm.oclc.org/doi/10.1145/3671151.3671203
+
+Epistemology
+Positivism
+Realism - gpt says onto
+Interpretivism
+
+Ontology
+Objectivism
+Cnstrucivism
+Pragmatism - gpt says epi
+
+Axiology
+value-neutral 
+value-laden
+
+Epistemology = Positivism
+Ontology = Objectivism
+
